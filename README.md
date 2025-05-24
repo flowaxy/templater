@@ -3,7 +3,7 @@ Flowaxy UI - templating engine
 
 ## 📦 Installation
 ```sh
-npm install --save flowaxy-templater
+composer require flowaxy/templater
 ```
 
 ---
